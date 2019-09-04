@@ -3,7 +3,7 @@ This Langton's Ant simulation allows the player to choose the specifications of 
 
 If the ant lands on a white (#) square, it will turn 90° right, flip the color of the square to black (blank), and move forward one unit. It the ant lands on a black square, it will turn 90° left, flip the color of the square to white, and move forward one unit.
 
-To learn more about the Langston's Ant simulation, visit the ![wikipedia page](https://en.wikipedia.org/wiki/Langton%27s_ant).
+To learn more about the Langston's Ant simulation, visit the [wikipedia page](https://en.wikipedia.org/wiki/Langton%27s_ant).
 
 ## Usage
 The main menu allows the player to choose to play the game or quit.
